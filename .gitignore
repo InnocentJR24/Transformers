@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ML/Training
+wandb/
+scripts/wandb/
+*.pt
+*.pth
+
+# Notebooks
+testing.ipynb
+*.ipynb
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Other
+*.log
+*.cache
+*.swp

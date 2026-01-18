@@ -1,0 +1,5 @@
+torch
+wandb
+fire
+tqdm
+wget
